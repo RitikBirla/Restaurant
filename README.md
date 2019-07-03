@@ -1,0 +1,13 @@
+# Restaurant
+<html>
+<head>
+	<title>restaurant</title>
+	<link rel ="stylesheet" type="text/css" href="c1.css">
+</head>
+  <body>
+	<div class="red"><h1 class="heading"><center>Indori Restaurant</center></h1></div><hr /><hr />
+		<nav><ul><li><a href="About.html">About</a></li><li><a href="Rating.html">Rating</a></li><li><a href="photo.html">+Photos</a></li><li><a href="help.html">Help</a></li></ul></nav>
+	<div class="fir"><br/><br  />
+	<center><a href="menu.html"><button><h2 class="first">Click here for Menu</h2></button></a></div></center>
+  </body>
+</html>
